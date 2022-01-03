@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bimalmagar10
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on somthing new that I haven't done before
+- 👀 I’m a front-end web developer.
+- 🌱 I’m currently learning React.
+- 💞️ I’m seeking to collaborate on something new.
 - 📫 How to reach me👇</br> 
 [Click Me to Reach Me](https://www.bimalthapamagar.com.np)
 
