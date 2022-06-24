@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @bimalmagar10
-- 👀 I’m a front-end web developer.
 - 🌱 I’m currently learning React.
 - 💞️ I’m seeking to collaborate on something new.
 - 📫 How to reach me👇</br> 
