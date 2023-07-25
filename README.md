@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @bimalmagar10
-- 🌱 I’m currently learning React.
+- 🌱 I’m code in React.
+- Frontend is my expertise
 - 💞️ I’m seeking to collaborate on something new.
+- AI is my interest
 - 📫 How to reach me👇</br> 
 [Click Me to Reach Me](https://www.bimalthapamagar.com.np)
 
