@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @bimalmagar10
-- 🌱 I code in React.
-- Frontend is my expertise
-- 💞️ I’m seeking to collaborate on something new.
-- AI is my interest
-- 📫 How to reach me👇</br> 
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bimal.all) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bimal-thapa-magar-6582b0256) 
 
