@@ -4,5 +4,5 @@
 
 <img src ="https://github-readme-stats.vercel.app/api?username=bimalmagar10&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Bimal's GitHub Stats"/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bimal.all) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bimal-thapa-magar-6582b0256) [![bimalthapamagar.com.np](https://bimalthapamagar.com.np)] 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bimal.all) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bimal-thapa-magar-6582b0256) [![bimalthapamagar.com.np](https://img.shields.io/badge?style=plastic)](https://bimalthapamagar.com.np)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=bimalmagar10.bimalmagar10&title=Profile%20Views" alt="Profile Views"/>
